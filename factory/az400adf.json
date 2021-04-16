@@ -1,0 +1,9 @@
+{
+	"name": "az400adf",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c96c058-d0b0-456e-a7bc-cec9f705d06c",
+		"tenantId": "5d008e8d-f4bb-4a7f-a371-12f7a22e92c1"
+	}
+}
