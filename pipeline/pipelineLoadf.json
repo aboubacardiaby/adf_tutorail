@@ -20,11 +20,8 @@
 						"sqlReaderStoredProcedureName": "[dbo].[Usp_ProcessCustomerTrigger]",
 						"storedProcedureParameters": {
 							"processId": {
-								"type": "String",
-								"value": {
-									"value": "pipeline().RunId",
-									"type": "Expression"
-								}
+								"type": "Guid",
+								"value": "5CAC31E9-4225-4844-8066-E103711D56AD"
 							}
 						},
 						"queryTimeout": "02:00:00",
